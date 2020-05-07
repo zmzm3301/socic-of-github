@@ -1,1 +1,1 @@
-# socic-of-github
+# sonic-of-github
